@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  Currently Offers avaliable up 15 nov **** </h1>   
+         <h1> ****  Currently  no Offers  avaliable up  **** </h1>   
 	 
 
     </section>    
